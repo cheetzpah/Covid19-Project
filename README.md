@@ -46,3 +46,9 @@ The analysis revealed several key findings:
 
 
 The vaccination campaigns have played a role, in reducing the mortality rates caused by COVID 19 in many countries. You can find the code for my project, on my GitHub repository cheetzpah/Covid19-Project (github.com), which showcases the work and expertise invested in this endeavour. The Tableau dashboard, filled with insights stands as evidence of the journey we embarked upon with a vision. Eventually gained a deep understanding of the global impact of the COVID 19 pandemic.
+
+
+
+
+![image](https://github.com/cheetzpah/Covid19-Project/assets/138819880/71e60c75-05d8-434b-b209-6293236e419d)
+
