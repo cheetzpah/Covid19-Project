@@ -52,3 +52,8 @@ The vaccination campaigns have played a role, in reducing the mortality rates ca
 
 ![image](https://github.com/cheetzpah/Covid19-Project/assets/138819880/71e60c75-05d8-434b-b209-6293236e419d)
 
+
+
+![image](https://github.com/cheetzpah/Covid19-Project/assets/138819880/b11ed5bf-57f7-423d-991e-206dd90b2d6b)
+
+
